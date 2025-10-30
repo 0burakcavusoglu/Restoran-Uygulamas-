@@ -1,29 +1,16 @@
 Osman Yasin Zeytun=1230505030,
 Burak Çavuşoğlu=5230505068.
 Yazılım Mühendisliği 3.sınıf öğrencileri
-
-
-
-
-
-
-
-
-
-
-
-
-
--Restoran Sipariş Sistemi
+- Restoran Sipariş Sistemi
 
 Bu proje, Java ile yazılmış basit bir konsol tabanlı restoran sipariş yönetim uygulamasıdır. Kullanıcıdan sipariş bilgilerini alır, menüdeki yemekleri görüntüler ve siparişlerin toplam tutarını hesaplar.
 
--Proje Dosyaları
+- Proje Dosyaları
 Dosya Adı	Açıklama
 Restoran.java	Restoran sınıfını içerir. Menüdeki yemekleri tutar, yemek ekleme, listeleme ve fiyat bilgilerini yönetir.
 Siparis.java	Sipariş detaylarını temsil eder. Yemek adı ve fiyat bilgisini tutar.
 RestoranUygulamasi.java	Uygulamanın ana çalıştırılabilir sınıfıdır (main). Kullanıcıdan seçim alır, sipariş oluşturur ve sistemi yönetir.
- Çalıştırma
+- Çalıştırma
 
 Tüm .java dosyalarını aynı klasöre koyun.
 
@@ -36,7 +23,7 @@ Konsolda yönergeleri izleyerek sipariş işlemlerini yapın.
 javac *.java
 java RestoranUygulamasi
 
--Uygulamanın Özellikleri
+- Uygulamanın Özellikleri
 
 Menüdeki yemekleri görüntüleme
 
