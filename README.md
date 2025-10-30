@@ -6,6 +6,14 @@ Yazılım Mühendisliği 3.sınıf öğrencileri
 
 
 
+
+
+
+
+
+
+
+
 -Restoran Sipariş Sistemi
 
 Bu proje, Java ile yazılmış basit bir konsol tabanlı restoran sipariş yönetim uygulamasıdır. Kullanıcıdan sipariş bilgilerini alır, menüdeki yemekleri görüntüler ve siparişlerin toplam tutarını hesaplar.
